@@ -296,7 +296,7 @@ footer {
     margin-top: 60px;
     margin-left: 100px;
 }
-.layer{
+.layer {
     position: absolute;
     z-index: 999;
     top: 50%;
@@ -305,13 +305,13 @@ footer {
     height: 200px;
     transform: translate(-50%, -50%);
 }
-.later h2{
+.layer h2 {
     width: 300px;
     height: 50px;
     line-height: 50px;
     background-color: #468189;
 }
-.later p {
+.layer p {
     width: 300px;
     height: 150px;
     background-color: #fff;
